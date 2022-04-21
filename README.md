@@ -8,8 +8,8 @@ The purpose of this project is to analyze and predict house prices in Ames, Iowa
 
 ## Project Description
 
-This project uses the [train.csv](../datasets/train.csv) dataset to train the model; however, the final dataset, titled: [cleaned, mapped, dummied.csv](../datasets/Working Data/cleaned_mapped_dummied.csv)
- can be found in the Working Data folder. Descriptions of the final dataset can found in the [data dictionary](../data dictionary.md):
+This project uses the [train.csv](../datasets/train.csv) dataset to train the model; however, the final dataset, titled: [cleaned, mapped, dummied.csv](../datasets/Working_Data/cleaned_mapped_dummied.csv)
+ can be found in the Working Data folder. Descriptions of the final dataset can found in the [data dictionary](../data_dictionary.md):
 
 ## Additional Resources
 
