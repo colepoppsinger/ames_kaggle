@@ -1,10 +1,12 @@
-# Ames Housing Data and Kaggle Challenge
+# Ames Housing Data and Kaggle Competition
 
 
 #### Project Status: [Completed]
 
 ## Project Obective
 The purpose of this project is to analyze and predict house prices in Ames, Iowa using a dataset which incorporates housing data from 2006 - 2010.
+
+[Kaggle Competition](https://www.kaggle.com/competitions/dsir-0124-project-2-regression-challenge/leaderboard)
 
 ## Project Description
 
